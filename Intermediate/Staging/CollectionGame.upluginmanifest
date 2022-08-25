@@ -458,33 +458,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Editor Scripting Utilities",
-				"Description": "Helper functions to script your own UE4 editor functionalities with Blueprint or other scripting tools.",
-				"Category": "Scripting",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "EditorScriptingUtilities",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
 			"Descriptor": 
 			{
@@ -806,57 +779,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Experimental/ChaosEditor/ChaosEditor.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "ChaosEditor",
-				"Description": "Destruction Tools",
-				"Category": "Editor",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "FractureEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "PlanarCut",
-						"Enabled": true,
-						"TargetAllowList": [
-							"Editor"
-						]
-					},
-					{
-						"Name": "GeometryCollectionPlugin",
-						"Enabled": true
-					},
-					{
-						"Name": "MeshModelingToolsetExp",
-						"Enabled": true,
-						"TargetAllowList": [
-							"Editor"
-						]
-					},
-					{
-						"Name": "EditorScriptingUtilities",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin",
 			"Descriptor": 
 			{
@@ -978,53 +900,6 @@
 				"Plugins": [
 					{
 						"Name": "ControlRig",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/GeometryCollectionPlugin.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "0.1",
-				"FriendlyName": "Geometry",
-				"Description": "Adds Geometry Collection Container.",
-				"Category": "Geometry",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": false,
-				"CanContainContent": true,
-				"IsBetaVersion": true,
-				"Modules": [
-					{
-						"Name": "GeometryCollectionEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "GeometryCollectionTracks",
-						"Type": "Runtime",
-						"LoadingPhase": "Default"
-					},
-					{
-						"Name": "GeometryCollectionSequencer",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "ProceduralMeshComponent",
-						"Enabled": true
-					},
-					{
-						"Name": "ChaosSolverPlugin",
 						"Enabled": true
 					}
 				]

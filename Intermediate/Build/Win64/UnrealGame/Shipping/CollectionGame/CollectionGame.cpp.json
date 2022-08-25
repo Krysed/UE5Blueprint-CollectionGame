@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\marblecollectiongame\\collectiongame\\intermediate\\source\\collectiongame.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\marblecollectiongame\\collectiongame\\intermediate\\build\\win64\\collectiongame\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\marblecollectiongame\\collectiongame\\intermediate\\build\\win64\\unrealgame\\shipping\\collectiongame\\definitions.collectiongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

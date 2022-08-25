@@ -32,19 +32,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
-			"Assets": [
-				"/HairStrands/Materials/HairMeshesDefaultMaterial",
-				"/HairStrands/Materials/HairDefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
-			"Assets": [
-				"/HairStrands/Materials/HairCardsDefaultMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -160,12 +147,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
-			"Assets": [
-				"/HairStrands/Materials/HairDebugMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
@@ -190,7 +171,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"ShaderMapHash": "F6470D87220F9B75F5A8C91CFA682FC07DA79D33",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
