@@ -1,4 +1,4 @@
-CollectionGame/Binaries/Win64/CollectionGame-Win64-Shipping.exe	2022-08-25T16:18:44.456Z
+CollectionGame/Binaries/Win64/CollectionGame-Win64-Shipping.exe	2022-08-29T08:51:07.834Z
 CollectionGame/Binaries/Win64/D3D12/D3D12Core.dll	2022-08-19T10:27:25.079Z
 CollectionGame/Binaries/Win64/OpenImageDenoise.dll	2022-08-19T10:35:51.037Z
 CollectionGame/Binaries/Win64/tbb.dll	2022-08-19T10:26:52.641Z
@@ -16,4 +16,4 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2022-08-19T10:27
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-08-19T10:27:25.062Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-08-19T10:27:25.062Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-08-19T10:27:25.500Z
-CollectionGame.exe	2022-08-25T16:19:19.586Z
+CollectionGame.exe	2022-08-29T08:51:34.289Z
